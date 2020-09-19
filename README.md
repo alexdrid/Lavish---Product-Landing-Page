@@ -1,3 +1,3 @@
-# react-ojr1wq
+# react-lavish
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-lavish)
