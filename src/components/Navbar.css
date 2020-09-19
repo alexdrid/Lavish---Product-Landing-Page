@@ -1,0 +1,37 @@
+/* .navbar{
+  width: 100%;
+} */
+
+.navbar-container{
+  background-color: #1d3557;
+  height:100px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo{  
+  text-decoration: none;
+  color: #fff;
+  font-size: 40px;
+  padding: 10px 25px;
+  display: flex;
+  align-items: center;
+}
+
+.menu-icon{
+  color: #fff;
+  font-size: 30px;
+  cursor: pointer;
+  margin-top: 10px;
+  margin-right: 25px;
+}
+
+.menu-item{
+  list-style: none;
+}
+
+.nav-link{
+  text-decoration: none;
+  color: #fff;
+}
